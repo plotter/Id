@@ -1,5 +1,5 @@
 # id-tools
-tools for providing authentication and role-based authorization within applications
+tools for providing authentication and role-based authorization within applications.
 
 ## links
 
